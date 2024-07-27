@@ -1,0 +1,14 @@
+C:\Users\chris\repos\IterationStatementsExercise1\IterationStatementsExercise1\bin\Debug\net8.0\IterationStatementsExercise1.exe
+C:\Users\chris\repos\IterationStatementsExercise1\IterationStatementsExercise1\bin\Debug\net8.0\IterationStatementsExercise1.deps.json
+C:\Users\chris\repos\IterationStatementsExercise1\IterationStatementsExercise1\bin\Debug\net8.0\IterationStatementsExercise1.runtimeconfig.json
+C:\Users\chris\repos\IterationStatementsExercise1\IterationStatementsExercise1\bin\Debug\net8.0\IterationStatementsExercise1.dll
+C:\Users\chris\repos\IterationStatementsExercise1\IterationStatementsExercise1\bin\Debug\net8.0\IterationStatementsExercise1.pdb
+C:\Users\chris\repos\IterationStatementsExercise1\IterationStatementsExercise1\obj\Debug\net8.0\IterationStatementsExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\repos\IterationStatementsExercise1\IterationStatementsExercise1\obj\Debug\net8.0\IterationStatementsExercise1.AssemblyInfoInputs.cache
+C:\Users\chris\repos\IterationStatementsExercise1\IterationStatementsExercise1\obj\Debug\net8.0\IterationStatementsExercise1.AssemblyInfo.cs
+C:\Users\chris\repos\IterationStatementsExercise1\IterationStatementsExercise1\obj\Debug\net8.0\IterationStatementsExercise1.csproj.CoreCompileInputs.cache
+C:\Users\chris\repos\IterationStatementsExercise1\IterationStatementsExercise1\obj\Debug\net8.0\IterationStatementsExercise1.dll
+C:\Users\chris\repos\IterationStatementsExercise1\IterationStatementsExercise1\obj\Debug\net8.0\refint\IterationStatementsExercise1.dll
+C:\Users\chris\repos\IterationStatementsExercise1\IterationStatementsExercise1\obj\Debug\net8.0\IterationStatementsExercise1.pdb
+C:\Users\chris\repos\IterationStatementsExercise1\IterationStatementsExercise1\obj\Debug\net8.0\IterationStatementsExercise1.genruntimeconfig.cache
+C:\Users\chris\repos\IterationStatementsExercise1\IterationStatementsExercise1\obj\Debug\net8.0\ref\IterationStatementsExercise1.dll
